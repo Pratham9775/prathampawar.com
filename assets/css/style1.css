@@ -72,7 +72,7 @@ main{
   line-height: .9;
   font-family: Kajiro;
     color: white;
- /*   font-weight: 100; */
+   font-weight: 100; 
     font-size: 11vw;  
 }
 #heroleft button{
